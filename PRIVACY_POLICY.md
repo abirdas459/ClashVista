@@ -1,14 +1,14 @@
-# Privacy Policy for Clash Pilot
+# Privacy Policy for ClashVista
 
 **Effective Date:** November 2026  
 **Publisher:** ABIR DAS  
-**Application:** Clash Pilot (Autodesk App Store App ID: 1237288957200256437)  
+**Application:** ClashVista (Autodesk App Store App ID: 1237288957200256437)  
 **Contact:** abirdas.pinnacle@gmail.com  
 
 ---
 
 ### 1. Overview
-Tagfather Suite respects your privacy. **Clash Pilot** is a professional BIM & MEP coordination add-in designed to run locally within Autodesk® Revit®. This Privacy Policy outlines our data practices.
+ClashVista respects your privacy. **ClashVista** is a professional BIM & MEP coordination add-in designed to run locally within Autodesk® Revit®. This Privacy Policy outlines our data practices.
 
 ### 2. No Collection of BIM Models or Project Data
 Clash Pilot operates entirely locally on your workstation:
@@ -29,4 +29,4 @@ We do not sell, rent, trade, share, or disclose any user or company data with th
 ### 5. Contact Us
 For questions regarding this policy:  
 - **Email:** abirdas.pinnacle@gmail.com  
-- **Website:** https://github.com/abirdas459/Clash-pilot
+- **Website:** https://github.com/abirdas459/ClashVista
